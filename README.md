@@ -19,3 +19,5 @@
 ### Swagger UI
 
 - Via le navigateur web [http://localhost:8080/swagger-ui.html/](http://localhost:8080/swagger-ui.html/)
+
+![img](_img/capture_web.png)
