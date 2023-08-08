@@ -1,6 +1,6 @@
 # Web Service Demo with Swagger
 
-> 🚨 **Projet déplacer ici ▶▶ : [https://github.com/2023-esiee-projectlab/web_service_swagger](https://github.com/2023-esiee-projectlab/web_service_swagger)**
+> 🚨 **Projet déplacer ici ▶▶ : [https://github.com/2023-esiee-projectlab/M2_web_service_swagger](https://github.com/2023-esiee-projectlab/M2_web_service_swagger)**
 
 ## Tutos ajouter Swagger
 
